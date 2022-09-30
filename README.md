@@ -1,4 +1,3 @@
-# HardikCodes
-These are my Work Samples and My Grinding codes.
-You can check them out and I hope you can know some new concepts from these codes.
+# 30DaysCodeChallenge
+All Hacker Rank 30 Days Code Challenge Codes.
 Thank You !..
